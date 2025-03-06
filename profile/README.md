@@ -1,1 +1,1 @@
-# Repository dell'Associazione Italiana Biblioteche
+# Repository Associazione Italiana Biblioteche
